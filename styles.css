@@ -41,7 +41,7 @@ body
         font-family: 'Montserrat-Light';
         font-size: 1.2rem;
 }
-.testimonial-image
+.iphone-img
 {
         width: 60%;
         transform: rotate(20deg);
@@ -92,7 +92,7 @@ h2{
         padding-bottom: 5%;
 }
 
-.dog
+.testimonial-image
 {
         width: 15%;
         border-radius: 100%;
