@@ -1,0 +1,185 @@
+body
+{
+        font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+        background-color: #ff4b03;
+        color: white;
+        margin-bottom: -2%;
+
+}
+.him
+{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 3rem;
+       line-height: 1.5;
+       margin-bottom: 120px;
+       margin-top: 80px;
+}
+
+.container-fluid
+{
+      padding: 5% 20%;  
+      text-decoration-color: white;
+}
+
+.navbar-brand
+{
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 2.5rem;
+        font-weight: bold;
+}
+.navbar
+{
+        padding-bottom: 80px;
+}
+
+.nav-item
+{
+        padding: 0 28px;
+        font-family: 'Montserrat-Light';
+        font-size: 1.2rem;
+}
+.iphone-img
+{
+        width: 60%;
+        transform: rotate(20deg);
+        position: absolute;
+        padding-top: 30px;
+
+}
+.work
+{
+        margin-top: 40px;
+        text-align: center;
+        padding: 7% 20%;
+        line-height: 3rem;
+}
+.paragraph
+{
+        padding: 0 25%;
+        font-family: 'Montserrat';
+        color: #8f8f8f;
+
+
+}
+.h3
+{
+        font-family: 'Montserrat-Bold';
+}
+
+.icon
+{
+        color: #f57d6d;
+}
+.icon:hover
+{
+        color: #ff4b03;
+}
+
+#testimonials{
+        background-color: #ef8172;
+        padding: 7% 15%;
+        text-align: center;
+        line-height: 1.5rem;
+        color: white;
+
+}
+h2{
+        color: white;
+        margin: 0 22%;
+        padding-bottom: 5%;
+}
+
+.dog
+{
+        width: 15%;
+        border-radius: 100%;
+        margin: 2%;
+}
+#press{
+        background-color: #ef8172;
+        text-align: center;
+        padding-bottom: 3%;
+}
+.press{
+        width: 6.5%;
+}
+
+#pricing
+{
+        padding: 7% 9%;
+        text-align: center;
+}
+.margin{
+        margin: 7% 0;
+}
+h3{
+        font-size: 40px;
+
+}
+.card-body
+{
+        line-height: 2.5rem;
+}
+#features
+{
+        background-color: white;
+        position: relative;
+}
+.img
+{
+     left: 5%;   
+}
+#cta
+{
+        background-color: #ff4b03;
+        text-align: center;
+        padding: 8% 0;
+        
+}
+.last
+{
+        margin: 0 1%;
+}
+
+#footer{
+        text-align: center;
+        line-height: 1.5rem;
+        margin: 50px 0%;
+        font-family: 'Montserrat-Light';
+        color: grey;
+
+}
+
+@media (max-width: 1028px)
+{
+        #title{
+        text-align: center;
+        }
+        .iphone-img{
+                position: static;
+                transform: rotate(0);
+
+}
+
+}
+.lve{
+        line-height: 3.5rem;
+        width: 25%;
+        color: white;
+        margin: auto;
+        padding-bottom: 30px;
+
+}
+.h2-change{
+        color: black;
+}
+.icons{
+        margin: 0 10px;
+        color: white;
+}
+.reach{
+        margin: 15px 10px;
+}
